@@ -8,6 +8,7 @@
 
 来源 |目标 | 情况
 ---  |---  | ---
+nodejs-http-proxy-template | nginx反向代理跨域 |
 moto.wxui | 瀑布流 + 懒加载 | 
 moto.template.ui | 自定义滚动条 |
 nodejs-http-proxy-tmeplate | webpack-dev-server|
