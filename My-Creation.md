@@ -23,4 +23,4 @@
 
 2、H5
 
-> [中粮H5](https://hos.smartbit.top/h5/DAMI/)
+> [中粮·福临门号](https://hos.smartbit.top/h5/DAMI/)
