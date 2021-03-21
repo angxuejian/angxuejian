@@ -4,7 +4,7 @@
 
 - 🛠️ 文档 [how-to-achieve](https://github.com/angxuejian/how-to-achieve)、[front-end.basics](https://github.com/angxuejian/front-end.basics)
 
-- ⚙️ 模板 [nodejs-http-proxy-template](https://github.com/angxuejian/nodejs-http-proxy-template) 
+- ⚙️ 模板 [http-cros-proxy-template](https://github.com/angxuejian/http-cros-proxy-template) 
 
 - ☀️ 唯有头顶之上一片晴空 
 
