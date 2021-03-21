@@ -32,7 +32,7 @@ moto.wxui | removeBG组件的云开发对接 | ☀️
 
 **改动:**
 
-> 移除 `moto.wxui - 分享 + 主题 + 文档代码优化` 调整到下次
+> 移除 `moto.wxui - 分享 + 主题 + 文档代码优化` 调整到下次<br>
 > 移除 `moto.template.ui - 自定滚动条` 调整到下次<br>
 > 移除 `moto.wxui - datePicker组件左右滑动` 性能欠缺 <br>
 > 移除 `moto.wxui - waterfallsFlow组件懒加载` 通过 image 标签获取图片信息时，已经加载<br>
