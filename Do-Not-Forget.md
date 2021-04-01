@@ -7,10 +7,20 @@
 ## 清单
 
 ### 2021年
+
+> `exam-book - ruankao.md` 优先级最高。截至于05月30号
 <!-- moto.template.ui | 自定义滚动条 | -->
 
+#### 04月01日 - 
+来源 | 目标 | 情况
+---  | --- | ---
+exam-book | ruankao.md | 
+moto.wxui、how-to-achieve、http-cros-proxy-template| 代码整理 |
+front-end.basics、面试题 | 整理基础知识 |
+git | 整理知识及使用进阶准备 |
 
-#### 03月22日 -03月31日
+
+#### 03月22日 - 03月31日
 
 来源 | 目标 | 情况
 --- |  --- | ---
