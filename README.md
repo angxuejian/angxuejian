@@ -13,4 +13,4 @@
 
 - ➡️ [**不要忘记 ！**](Do-Not-Forget.md)
 
-- ⛳ [**备战软考 ！**](https://github.com/angxuejian/exam-book/blob/main/docs/ruankao.md)
+- ⛳ [**备战软考 ！**](https://github.com/angxuejian/exam-book/tree/main/docs/ruankao)
