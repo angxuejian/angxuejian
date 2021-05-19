@@ -9,8 +9,8 @@
 - ☀️ 唯有头顶之上一片晴空 
 
 
-### 🕛 提醒
+<!-- ### 🕛 提醒
 
 - ➡️ [**不要忘记 ！**](Do-Not-Forget.md)
 
-- ⛳ [**备战软考 ！**](https://github.com/angxuejian/exam-book/tree/main/docs/ruankao)
+- ⛳ [**备战软考 ！**](https://github.com/angxuejian/exam-book/tree/main/docs/ruankao) -->
