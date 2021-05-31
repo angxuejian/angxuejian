@@ -9,7 +9,7 @@
 
 ### 2021年
 
-> `exam-book - jiaozhi.md` 备战09月<br>
+> `exam-book - jiaozi.md` 备战09月<br>
 > `exam-book - ruankao.md` 备战11月<br><br>
 > `exam-book - ruankao.md` 优先级最高。截至于05月30号<span style='color:#2BA245'>**(End)**</span><br><br>
 > `front-end.basics`、`git`、`面试题`<span style='color:#2782D7'>**(Continue)**</span>
