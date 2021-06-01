@@ -1,8 +1,8 @@
 ### 🔔 叮铃铃
 
-- ⛏️ 代码 [moto.wxui](https://github.com/angxuejian/moto.wxui)、[moto.template.ui](https://github.com/angxuejian/moto.template.ui)
+- ⛏️ 代码 [moto.wxui](https://github.com/angxuejian/moto.wxui)
 
-- 🛠️ 文档 [how-to-achieve](https://github.com/angxuejian/how-to-achieve)、[front-end.basics](https://github.com/angxuejian/front-end.basics)
+- 🛠️ 文字 [how-to-achieve](https://github.com/angxuejian/how-to-achieve)、[front-end.basics](https://github.com/angxuejian/front-end.basics)
 
 - ⚙️ 模板 [http-cros-proxy-template](https://github.com/angxuejian/http-cros-proxy-template) 
 
