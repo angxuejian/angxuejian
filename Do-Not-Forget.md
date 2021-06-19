@@ -18,7 +18,7 @@
 #### 05月31日 - 06月30日
 来源 | 目标 | 情况
 --- | --- |---
-moto.wxui | 图片mode | 
+moto.wxui | imgMode | ☀️
 moto.wxui | Calendar 日期优化 |
 moto.wxui | Voice组件 | 
 moto.wxui | Switch组件 | 
