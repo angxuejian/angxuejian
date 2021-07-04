@@ -9,13 +9,14 @@
 
 ### 2021年
 
+> `h5预览图片旋转(iPhone 12)`问题<br>
 > `exam-book - jiaozi.md` 备战09月<br>
 > `exam-book - ruankao.md` 备战11月<br><br>
 > `exam-book - ruankao.md` 优先级最高。截至于05月30号<span style='color:#2BA245'>**(End)**</span><br><br>
 > `front-end.basics`、`git`、`面试题`<span style='color:#2782D7'>**(Continue)**</span>
 <!-- moto.template.ui | 自定义滚动条 | -->
 
-#### 05月31日 - 06月30日
+#### 05月31日 - 
 来源 | 目标 | 情况
 --- | --- |---
 moto.wxui | imgMode | ☀️
