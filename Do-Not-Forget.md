@@ -20,12 +20,12 @@
 来源 | 目标 | 情况
 --- | --- |---
 moto.wxui | imgMode | ☀️
-moto.wxui | Calendar 日期优化 |
+moto.wxui | Calendar 日期优化 | ☀️
 moto.wxui | Voice组件 | 
-moto.wxui | Switch组件 | 
-moto.wxui | Picker组件 |
+moto.wxui | Switch组件 | ☀️
+moto.wxui | Picker组件 | ☀️
 moto.wxui | Time组件 | 
-moto.wxui | 整体代码间接、优化、调整 | 
+moto.wxui | 整体代码间接、优化、调整 |
 moto.template.ui | 基础Vue开发模板 | 
 
 
