@@ -28,6 +28,9 @@ moto.wxui | Time组件 |
 moto.wxui | 整体代码间接、优化、调整 |
 moto.template.ui | 基础Vue开发模板 | 
 
+**改动**
+> 将 `moto.wxui - Time组件` 修改为 `Picker组件下的 mode` 
+
 
 #### 04月01日 - 05月30日
 来源 | 目标 | 情况
