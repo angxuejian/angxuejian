@@ -21,16 +21,16 @@
 --- | --- |---
 moto.wxui | imgMode | ☀️
 moto.wxui | Calendar 日期优化 | ☀️
-moto.wxui | Voice组件 | 
+moto.wxui | Drawer组件 | ☀️
 moto.wxui | Switch组件 | ☀️
 moto.wxui | Picker组件 | ☀️
-moto.wxui | Time组件 | 
-moto.wxui | 整体代码间接、优化、调整 |
+moto.wxui | Time组件 | ☀️
+moto.wxui | 整体代码间接、优化、调整 | ☀️
 moto.template.ui | 基础Vue开发模板 | 
 
 **改动**
 > 将 `moto.wxui - Time组件` 修改为 `Picker组件下的 mode` 
-
+> 将 `moto.wxui - Voice组件`修改为 `moto.wxui - Drawer组件`
 
 #### 04月01日 - 05月30日
 来源 | 目标 | 情况
