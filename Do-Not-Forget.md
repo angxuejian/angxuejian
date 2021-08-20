@@ -10,13 +10,22 @@
 ### 2021年
 
 > `h5预览图片旋转(iPhone 12)`问题<br>
-> `exam-book - jiaozi.md` 备战09月<br>
-> `exam-book - ruankao.md` 备战11月<br><br>
-> `exam-book - ruankao.md` 优先级最高。截至于05月30号<span style='color:#2BA245'>**(End)**</span><br><br>
+> `book - jiaozi.md` 备战09月<br>
+> `book - ruankao.md` 备战11月<br><br>
+> `book - ruankao.md` 优先级最高。截至于05月30号<span style='color:#2BA245'>**(End)**</span><br><br>
 > `front-end.basics`、`git`、`面试题`<span style='color:#2782D7'>**(Continue)**</span>
 <!-- moto.template.ui | 自定义滚动条 | -->
 
-#### 05月31日 - 
+### 08月-20日 - 
+来源 | 目标 | 情况
+---  | --- | ---
+moto.ui | Scrollbar | 
+moto.ui | ts与vue3.0搭建   |
+moto.wxui | 图片裁剪 | 
+moto.wxui | 触摸滑动 | 
+
+
+#### 05月31日 - 08月20日
 来源 | 目标 | 情况
 --- | --- |---
 moto.wxui | imgMode | ☀️
@@ -26,7 +35,7 @@ moto.wxui | Switch组件 | ☀️
 moto.wxui | Picker组件 | ☀️
 moto.wxui | Time组件 | ☀️
 moto.wxui | 整体代码间接、优化、调整 | ☀️
-moto.template.ui | 基础Vue开发模板 | 
+moto.template.ui | 基础Vue开发模板 | 🌩️
 
 **改动**
 > 将 `moto.wxui - Time组件` 修改为 `Picker组件下的 mode` <br>
@@ -35,7 +44,7 @@ moto.template.ui | 基础Vue开发模板 |
 #### 04月01日 - 05月30日
 来源 | 目标 | 情况
 ---  | --- | ---
-exam-book | ruankao.md | 😐
+book | ruankao.md | 😐
 moto.wxui、how-to-achieve、http-cros-proxy-template| 代码整理 |🌩️
 front-end.basics、面试题 | 整理基础知识 | 😐
 git | 整理知识及使用进阶准备 |🌩️
