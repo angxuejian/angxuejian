@@ -10,19 +10,19 @@
 ### 2021年
 
 > `h5预览图片旋转(iPhone 12)`问题<br>
-> `book - jiaozi.md` 备战09月<br>
-> `book - ruankao.md` 备战11月<br><br>
-> `book - ruankao.md` 优先级最高。截至于05月30号<span style='color:#2BA245'>**(End)**</span><br><br>
-> `front-end.basics`、`git`、`面试题`<span style='color:#2782D7'>**(Continue)**</span>
+<!-- > `book - jiaozi.md` 备战09月<br> -->
+<!-- > `book - ruankao.md` 备战11月<br><br> -->
+<!-- > `book - ruankao.md` 优先级最高。截至于05月30号<span style='color:#2BA245'>**(End)**</span><br><br> -->
+<!-- > `front-end.basics`、`git`、`面试题`<span style='color:#2782D7'>**(Continue)**</span> -->
 <!-- moto.template.ui | 自定义滚动条 | -->
 
-### 08月-20日 - 
+### 08月20日 - 
 来源 | 目标 | 情况
 ---  | --- | ---
 moto.ui | Scrollbar | 
 moto.ui | ts与vue3.0搭建   |
 moto.wxui | 图片裁剪 | 
-moto.wxui | 触摸滑动 | 
+moto.wxui | 触摸滑动 | ☀️
 
 
 #### 05月31日 - 08月20日
