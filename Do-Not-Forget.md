@@ -19,8 +19,8 @@
 ### 08月20日 - 
 来源 | 目标 | 情况
 ---  | --- | ---
-moto.ui | Scrollbar | 
-moto.ui | ts与vue3.0搭建   |
+moto.ui | Scrollbar | ☀️
+moto.ui | ts与vue3.0搭建   | 😐
 moto.wxui | 图片裁剪 | 
 moto.wxui | 触摸滑动 | ☀️
 
