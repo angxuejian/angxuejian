@@ -16,13 +16,27 @@
 <!-- > `front-end.basics`、`git`、`面试题`<span style='color:#2782D7'>**(Continue)**</span> -->
 <!-- moto.template.ui | 自定义滚动条 | -->
 
-### 08月20日 - 
+### 10月07日 - 
+来源 | 目标 | 情况
+---  | --- | ---
+moto.ui | js常用方法   | 
+moto.wxui | transform-origin | 
+moto.wxui | 样式 |
+moto.wxui | 旋转 | 
+
+
+
+### 08月20日 - 10月07日
 来源 | 目标 | 情况
 ---  | --- | ---
 moto.ui | Scrollbar | ☀️
 moto.ui | ts与vue3.0搭建   | 😐
-moto.wxui | 图片裁剪 | 
+moto.wxui | 图片裁剪 | 😐
 moto.wxui | 触摸滑动 | ☀️
+
+**备注**
+> 未使用ts语法搭建<br>
+> 完成图片拖动、缩放裁剪
 
 
 #### 05月31日 - 08月20日
