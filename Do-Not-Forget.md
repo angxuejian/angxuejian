@@ -20,16 +20,17 @@
 ### 10月21日 - 
 来源 | 目标 | 情况
 ---  | --- | ---
-moto.wxui | 样式修改、touchend限制、上传 & 保存 | 
-how-to-achieve | scrollbar 文章 |
+moto.wxui | 样式修改、touchend限制、上传 & 保存 | 😐
+how-to-achieve | scrollbar 文章 | 😐
 how-to-achieve | cropImage 文章 | 
-
+moto.wxui | 日历bug、日历滑动手势|
+moto.wxui | picker组件代码优化  | ☀️
+moto.ui | js常用方法   | 
 
 
 ### 10月07日 - 10月21日
 来源 | 目标 | 情况
 ---  | --- | ---
-moto.ui | js常用方法   | 
 moto.wxui | transform-origin | 😐
 moto.wxui | 样式 | ☀️
 moto.wxui | 旋转 | ☀️
