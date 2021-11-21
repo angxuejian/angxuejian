@@ -25,7 +25,9 @@ how-to-achieve | scrollbar 文章 | 😐
 how-to-achieve | cropImage 文章 | 
 moto.wxui | 日历bug、日历滑动手势|
 moto.wxui | picker组件代码优化  | ☀️
-moto.ui | js常用方法   | 
+moto.js | javascript - sdk(1.0)|
+moto.ui | 路由配置、权限配置、Vuex进阶| 
+moto.ui | excel、zip、word、pdf使用|
 
 
 ### 10月07日 - 10月21日
