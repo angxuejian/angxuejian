@@ -7,7 +7,7 @@
 
 ## 清单
 
-### 2021年
+
 
 > `h5预览图片旋转(iPhone 12)`问题<br>
 > `transform-origin and scale cropping image problem`
@@ -17,7 +17,19 @@
 <!-- > `front-end.basics`、`git`、`面试题`<span style='color:#2782D7'>**(Continue)**</span> -->
 <!-- moto.template.ui | 自定义滚动条 | -->
 
-### 10月21日 - 
+### 2022年
+
+### 01月28日 - 
+来源 | 目标 | 情况
+---  | --- | ---
+moto.ui | layout搭建 | 
+
+<br>
+<hr>
+<br>
+
+### 2021年
+### 10月21日 - 01月09日
 来源 | 目标 | 情况
 ---  | --- | ---
 moto.wxui | 样式修改、touchend限制、上传 & 保存 | 😐
@@ -25,8 +37,8 @@ how-to-achieve | scrollbar 文章 | ☀️
 how-to-achieve | cropImage 文章 | 
 moto.wxui | 日历bug、日历滑动手势| ☀️
 moto.wxui | picker组件代码优化  | ☀️
-moto.js | javascript - sdk(1.0)|
-moto.ui | 路由配置、权限配置、Vuex进阶| 
+moto.js | javascript - sdk(1.0)| ☀️
+moto.ui | 路由配置、权限配置、Vuex进阶| ☀️
 moto.ui | excel、zip、word、pdf使用|
 
 
