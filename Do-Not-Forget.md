@@ -22,8 +22,8 @@
 ### 03月27日 -
 来源 | 目标 | 情况
 ---  | --- | ---
-moto.wxui | 更新datePicker组件 |
-moto.wxui | 更新colorPicker组件 | 
+moto.wxui | 更新datePicker组件 | ☀️
+moto.wxui | 更新colorPicker组件 | ☀️
 moto.wxui | 完善ui.lottery页面 | 
 moto.wxui | 完善ui.picCrop页面 | 
 moto.ui | poper.js |
