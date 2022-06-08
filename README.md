@@ -1,6 +1,6 @@
 ### 🔔 叮铃铃
 
-- ⛏️ 代码 [moto.wxui](https://github.com/angxuejian/moto.wxui)、[moto.ui](https://github.com/angxuejian/moto.ui)、[moto.js](https://github.com/angxuejian/moto.js)
+- ⛏️ 代码 [moto.wxui](https://github.com/angxuejian/moto.wxui)、[moto.admin](https://github.com/angxuejian/moto.admin)、[moto.js](https://github.com/angxuejian/moto.js)
 
 - ⏰ 资料 [book](https://github.com/angxuejian/book)
 
