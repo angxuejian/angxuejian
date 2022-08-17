@@ -19,13 +19,25 @@
 
 ### 2022年
 
-### 03月27日 -
+### 08月18日 - 
+来源 | 目标 | 情况
+---  | --- | ---
+moto.plus | 自适应 | 
+moto.plus | css主题 | 
+moto.plus | changelog | 
+moto.plus | 部分UI | 
+moto.plus | 上拉刷新、下拉加载 | 
+
+### 03月27日 - 08月17日
 来源 | 目标 | 情况
 ---  | --- | ---
 moto.wxui | 更新datePicker组件 | ☀️
 moto.wxui | 更新colorPicker组件 | ☀️
-moto.wxui | 完善ui.lottery页面 | 
-moto.wxui | 完善ui.picCrop页面 | 
+moto.wxui | 完善ui.lottery页面 | ☀️
+moto.wxui | 完善ui.picCrop页面 | ☀️
+moto.wxui | 增加timePicker组件 | ☀️
+moto.wxui | 增加checkInDatePicker组件| ☀️
+moto.wxui | 增加recorder组件 | ☀️
 moto.ui | poper.js |
 
 
