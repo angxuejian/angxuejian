@@ -11,21 +11,22 @@
 
 > `h5预览图片旋转(iPhone 12)`问题<br>
 > `transform-origin and scale cropping image problem`
-<!-- > `book - jiaozi.md` 备战09月<br> -->
-<!-- > `book - ruankao.md` 备战11月<br><br> -->
-<!-- > `book - ruankao.md` 优先级最高。截至于05月30号<span style='color:#2BA245'>**(End)**</span><br><br> -->
-<!-- > `front-end.basics`、`git`、`面试题`<span style='color:#2782D7'>**(Continue)**</span> -->
-<!-- moto.template.ui | 自定义滚动条 | -->
+
 
 ### 2022年
 
-### 08月18日 - 
+### 10月26日 - 
 来源 | 目标 | 情况
 ---  | --- | ---
-moto.plus | 自适应 | 
-moto.plus | css主题 | 
-moto.plus | changelog | 
-moto.plus | 部分UI | 
+moto.plus | v-ripple |
+
+### 08月18日 - 9月30日
+来源 | 目标 | 情况
+---  | --- | ---
+moto.plus | 自适应 | ☀️
+moto.plus | css主题 | ☀️
+moto.plus | changelog | 😐
+moto.plus | 部分UI | ☀️
 moto.plus | 上拉刷新、下拉加载 | 
 
 ### 03月27日 - 08月17日
