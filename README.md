@@ -4,7 +4,7 @@
 
 - 🛠️ 记录 [how-to-achieve](https://github.com/angxuejian/how-to-achieve)
 
-- ⚙️ 模板 [http-cros-proxy-template](https://github.com/angxuejian/http-cros-proxy-template)、[code-docs-template](https://github.com/angxuejian/code-docs-template)、[BaiduMapTileCuttingTool](https://github.com/angxuejian/BaiduMapTileCuttingTool)
+- ⚙️ 模板 [http-cros-proxy-template](https://github.com/angxuejian/http-cros-proxy-template)、[BaiduMapTileCuttingTool](https://github.com/angxuejian/BaiduMapTileCuttingTool)
 
 - ⏰ 参考 [cropper](https://github.com/angxuejian/cropper)、[element](https://github.com/angxuejian/element)、[material-ui](https://github.com/angxuejian/material-ui)、[vuetify](https://github.com/angxuejian/vuetify)、[mini-color-picker](https://github.com/MakerGYT/mini-color-picker)
 
