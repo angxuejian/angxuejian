@@ -1,6 +1,6 @@
 ### 🔔 叮铃铃
 
-- ⛏️ 代码 [moto.ui](https://github.com/angxuejian/moto.ui)、[moto.wxui](https://github.com/angxuejian/moto.wxui)、[moto.plus](https://github.com/angxuejian/moto.plus)、[moto.basics](https://github.com/angxuejian/moto.basics)
+- ⛏️ 代码 [moto.ui](https://github.com/angxuejian/moto.ui)、[moto.wxui](https://github.com/angxuejian/moto.wxui)、[moto.basics](https://github.com/angxuejian/moto.basics)、[first love](https://github.com/angxuejian/first-love)
 
 - 🛠️ 记录 [how-to-achieve](https://github.com/angxuejian/how-to-achieve)
 
@@ -8,7 +8,6 @@
 
 - ⏰ 参考 [cropper](https://github.com/angxuejian/cropper)、[element](https://github.com/angxuejian/element)、[material-ui](https://github.com/angxuejian/material-ui)、[vuetify](https://github.com/angxuejian/vuetify)、[mini-color-picker](https://github.com/MakerGYT/mini-color-picker)
 
-- 😀 [Experience](./experience.md) / [Medal](./medal.md)
 
 - ☀️ 唯有头顶之上一片晴空 / 逃避虽然可耻但有用
 
