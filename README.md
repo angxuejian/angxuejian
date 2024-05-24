@@ -1,8 +1,8 @@
 ### 🔔 叮铃铃
 
-- ⛏️ 代码 [moto.ui](https://github.com/angxuejian/moto.ui)、[moto.wxui](https://github.com/angxuejian/moto.wxui)、[moto.basics](https://github.com/angxuejian/moto.basics)、[first love](https://github.com/angxuejian/first-love)
+- ⛏️ 代码 [moto.wxui](https://github.com/angxuejian/moto.wxui)、[oar.ui](https://github.com/angxuejian/oar.ui)、[joyful.three.js](https://github.com/angxuejian/joyful.three.js)
 
-- 🛠️ 记录 [how-to-achieve](https://github.com/angxuejian/how-to-achieve)
+- 🛠️ 记录 [how-to-achieve](https://github.com/angxuejian/how-to-achieve)、[oliver's insight](https://github.com/angxuejian/the-insight-of-oliver)
 
 - ⚙️ 模板 [http-cros-proxy-template](https://github.com/angxuejian/http-cros-proxy-template)、[BaiduMapTileCuttingTool](https://github.com/angxuejian/BaiduMapTileCuttingTool)
 
