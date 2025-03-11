@@ -1,6 +1,6 @@
 ### 🔔 叮铃铃
 
-- ⛏️ 代码 [moto.wxui](https://github.com/angxuejian/moto.wxui)、[oar.ui](https://github.com/angxuejian/oar.ui)、[joyful.three.js](https://github.com/angxuejian/joyful.three.js)
+- ⛏️ 代码 [moto.wxui](https://github.com/angxuejian/moto.wxui)、[oar.ui](https://github.com/angxuejian/oar.ui)、[joyful.three.js](https://github.com/angxuejian/joyful.three.js)、[funcify](https://github.com/angxuejian/funcify)
 
 - 🛠️ 记录 [how-to-achieve](https://github.com/angxuejian/how-to-achieve)、[oliver's insight](https://github.com/angxuejian/the-insight-of-oliver)
 
