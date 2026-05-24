@@ -24,4 +24,15 @@
 
 ---
 
+<details>
+    <summary>Show Skills</summary>
+
+## Frontend
+
+| Skill | Level |
+|---|---|
+| I know basic HTML elements and semantic markup | 4 |
+| I can use CSS for layouts(flex,grid), responsive design, and animations | 4 |
+
+</details>
 
