@@ -1,3 +1,40 @@
+
+## Hi there, I'm Xuejian👋
+
+I'm a software developer passionate about AI, and developer tools, but honestly I have more experience in front-end development than back-end development.
+
+
+### 🚀 What I'm working on
+
+- PDF to Markdown conversion
+- LLM-powered document chunking
+- Virtual list and simple Markdown editor for [u-nothing](https://github.com/angxuejian/u-nothing)
+
+
+### 🌱 Currently learning
+
+- Retrieval-Augmented Generation (RAG)
+- Agentic AI
+- English 🇬🇧 (one commit and one sentence at a time!)
+
+### 📫 Let's connect
+
+I'm always happy to learn from the open-source community and share what I build.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!-- ### 🔔 叮铃铃
 
 - ⛏️ 代码 [simple.vue](https://github.com/angxuejian/simple.vue)、[simple.bundle](https://github.com/angxuejian/simple.bundle)、[u-nothing](https://github.com/angxuejian/u-nothing)
@@ -8,6 +45,8 @@
 
 - ☀️  -->
 
+<!-- i know Big-O notation for popular algorithms and simple custom implementations -->
+<!-- 
 # Skill Matrix
 
 > 唯有头顶之上一片晴空 / 逃避虽然可耻但有用
@@ -34,5 +73,5 @@
 | I know basic HTML elements and semantic markup | 4 |
 | I can use CSS for layouts(flex,grid), responsive design, and animations | 4 |
 
-</details>
+</details> -->
 
