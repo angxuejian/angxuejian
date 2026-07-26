@@ -6,9 +6,10 @@ I'm a software developer passionate about AI, and developer tools, but honestly 
 
 ### 🚀 What I'm working on
 
-- PDF to Markdown conversion
+<!-- - PDF to Markdown conversion
 - LLM-powered document chunking
-- Virtual list and simple Markdown editor for [u-nothing](https://github.com/angxuejian/u-nothing)
+- Virtual list and simple Markdown editor for [u-nothing](https://github.com/angxuejian/u-nothing) -->
+- Building a personal ChatGPT - [nos](https://github.com/angxuejian/nos)
 
 
 ### 🌱 Currently learning
