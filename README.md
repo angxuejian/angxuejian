@@ -4,17 +4,17 @@
 I'm a software developer passionate about AI, and developer tools, but honestly I have more experience in front-end development than back-end development.
 
 
-### 🚀 What I'm working on
+<!-- ### 🚀 What I'm working on -->
 
 <!-- - PDF to Markdown conversion
 - LLM-powered document chunking
 - Virtual list and simple Markdown editor for [u-nothing](https://github.com/angxuejian/u-nothing) -->
-- Building a personal ChatGPT - [nos](https://github.com/angxuejian/nos)
+<!-- - Building a personal ChatGPT - [nos](https://github.com/angxuejian/nos) -->
 
 
 ### 🌱 Currently learning
 
-- Retrieval-Augmented Generation (RAG)
+<!-- - Retrieval-Augmented Generation (RAG) -->
 - Agentic AI
 - English 🇬🇧 (one commit and one sentence at a time!)
 
