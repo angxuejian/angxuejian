@@ -12,11 +12,11 @@ I'm a software developer passionate about AI, and developer tools, but honestly 
 <!-- - Building a personal ChatGPT - [nos](https://github.com/angxuejian/nos) -->
 
 
-### 🌱 Currently learning
+<!-- ### 🌱 Currently learning -->
 
 <!-- - Retrieval-Augmented Generation (RAG) -->
-- Agentic AI
-- English 🇬🇧 (one commit and one sentence at a time!)
+<!-- - Agentic AI -->
+<!-- - English (one commit and one sentence at a time!) -->
 
 ### 📫 Let's connect
 
